@@ -1,0 +1,9 @@
+Humberto F. Rodriguez, Pharmacist, MBA
+I interested in data science by my profission and the posibility of be more creative
+in the futur
+my code will ne mu github code in number
+4655
+def gauss(n):
+return n*(n+1))/2
+gauss(100)==sum(range)(101))
+Out:TRUE
